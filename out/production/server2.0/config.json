@@ -1,0 +1,7 @@
+{
+  "dbUserName": "root",
+  "dbPassword": "amkera95",
+  "dbUrl": "localhost",
+  "dbPort": "3306",
+  "dbName": "bookit"
+}
